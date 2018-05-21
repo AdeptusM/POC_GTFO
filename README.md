@@ -3,8 +3,10 @@ Mirror of POC_GTFO pdfs
 
 Checksums
 
-MD5 (pocorgtfo00.pdf) = d74949bc9ca4dc265dbf2ff540fe6837
+-MD5 (pocorgtfo00.pdf) = d74949bc9ca4dc265dbf2ff540fe6837
+
 MD5 (pocorgtfo01.pdf) = 151bb48f35895ba75e3c5f4b89b1ba87
+
 MD5 (pocorgtfo02.pdf) = 39e5658e24a08e786955af1f4d7e2852
 MD5 (pocorgtfo03.pdf) = b90e36dbd5f192723c84c7ad002a616e
 MD5 (pocorgtfo04.pdf) = 895598b7946d5b11adedad2e574b2b24
